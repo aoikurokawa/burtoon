@@ -1,0 +1,28 @@
+.watch_card {
+    width: 100%;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) -1.52%, rgba(255, 255, 255, 0.024) 104.35%);
+    backdrop-filter: blur(79.2003px);
+    box-sizing: border-box;
+    border: 2px solid;
+    border-width: 5px;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(145.77deg, #BBA573 0%, rgba(255, 255, 255, 0) 105.76%) !important;
+}
+
+/* .card {
+    border-radius: 0 !important;
+} */
+
+.watch_card_md {
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    transition: .3s ease-out;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.103); */
+
+}
+
+.watch_card_md:hover {
+    /* color: #000;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.349); */
+}
