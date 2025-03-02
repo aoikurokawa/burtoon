@@ -1,17 +1,9 @@
-# NFT Project
+# NCN Program Template
 
 ## Getting started
 
-1. Install all dependencies
+1. Copy
 
 ```bash
-$ yarn
-```
-
-2. Create the environment variable, refer to `.env.example` file
-
-3. Start the app
-
-```
-$ yarn start
+$ cp 
 ```
