@@ -39,3 +39,8 @@ package-lock.json
 
 cypress/videos
 cypress/screenshots
+
+
+# Added by cargo
+
+/target

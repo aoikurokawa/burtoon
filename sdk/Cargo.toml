@@ -1,0 +1,9 @@
+[package]
+name = "sdk"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pinocchio = { workspace = true }
+shank = { workspace = true }
+thiserror = { workspace = true }

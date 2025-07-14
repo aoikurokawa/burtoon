@@ -1,0 +1,8 @@
+[package]
+name = "jito-vault-whitelist-core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pinocchio = { workspace = true }
+shank = { workspace = true }
